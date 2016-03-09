@@ -1,10 +1,10 @@
 {
-  "name": "enjoy-spot",
+  "name": "enjoyspot",
   "authors": [
     "lanbin <lanbin1987@gmail.com>"
   ],
   "description": "enjoy打点公共库",
-  "main": "enjoy-spot.js",
+  "main": "spot.js",
   "moduleType": [
     "amd",
     "globals"
