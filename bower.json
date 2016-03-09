@@ -1,0 +1,24 @@
+{
+  "name": "enjoy-spot",
+  "authors": [
+    "lanbin <lanbin1987@gmail.com>"
+  ],
+  "description": "enjoy打点公共库",
+  "main": "enjoy-spot.js",
+  "moduleType": [
+    "amd",
+    "globals"
+  ],
+  "keywords": [
+    "spot"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
