@@ -20,5 +20,9 @@
     "bower_components",
     "test",
     "tests"
-  ]
+  ],
+  "dependencies": {
+    "js-cookie": "^2.1.0",
+    "fingerprintjs2": "~1.0.3"
+  }
 }
