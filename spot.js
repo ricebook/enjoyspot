@@ -217,7 +217,8 @@
 		var minutes = 30;
 		date.setTime(date.getTime() + (minutes * 60 * 1000));
 		Cookies.set('rb_strack', generateUUID(), {
-			expires: date
+			expires: date,
+			domain: 'ricebook.com'
 		})
 	}
 
